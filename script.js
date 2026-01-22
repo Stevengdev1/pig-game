@@ -98,4 +98,6 @@ btnNew.addEventListener('click', init);
 
 //Game Instructions
 
-//Game is started by player 1 and they can either keep rolling the dice or hold their current score, but if at any point they roll a "1" their score is reset and the game now switches to player 2 automatically and the same rules apply.  The first player to get 100 points wins the game!
+//Game is started by player 1 and they can either keep rolling the dice or hold their current score, 
+// but if at any point they roll a "1" their score is reset and the game now switches to player 2 automatically
+// and the same rules apply.  The first player to get 100 points wins the game!
